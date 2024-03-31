@@ -1,0 +1,27 @@
+Added Component: Designator=U?(MSOP-10_L3.0-W3.0-P0.50-LS5.0-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications Function"; Value = "收发器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Rate"; Value = "2Mbps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230530/6E401E9554E9F5311886CC8B3F89B62E.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "CH340E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "扩展库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "USB转串口芯片 CH340"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "WCH(南京沁恒)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "CH340E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CH340E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Protocol"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "MSOP-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C99652"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage"; Value = "3.3V；5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "CH340E"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Origin_pi Member=Component U? TYPE-C16PIN母座 板上四脚三次molding
+Added Member To Class: ClassName=Origin_pi Member=Component U? CH340E
+Added Member To Class: ClassName=Origin_pi Member=Component U? SY8088AAC
+Added Member To Class: ClassName=Origin_pi Member=Component U? XC6206P332MR-G
+Added Member To Class: ClassName=Origin_pi Member=Component U? V3s
+Added Room: Name=Origin_pi

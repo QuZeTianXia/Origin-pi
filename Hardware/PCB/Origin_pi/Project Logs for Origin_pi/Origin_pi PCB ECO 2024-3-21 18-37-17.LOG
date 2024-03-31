@@ -1,0 +1,20 @@
+Added Component: Designator=TF?(TF-SMD_TF-15-15)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "À©Õ¹¿â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "SD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "SD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SIM-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C9900023771"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SD"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Origin_pi Member=Component TF? SD
+Added Member To Class: ClassName=Origin_pi Member=Component U? V3s
+Added Room: Name=Origin_pi

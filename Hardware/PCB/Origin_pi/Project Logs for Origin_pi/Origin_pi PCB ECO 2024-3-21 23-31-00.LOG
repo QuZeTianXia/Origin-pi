@@ -1,0 +1,14 @@
+Added Component: Designator=U??(PCBComponent_1 - duplicate)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "liam_sugar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "÷–æ∞‘∞2.0¥ÁTFT12PIN∫∏Ω”"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Origin_pi Member=Component U?? ÷–æ∞‘∞2.0¥ÁTFT12PIN∫∏Ω”
+Added Member To Class: ClassName=Origin_pi Member=Component U? V3s
+Added Member To Class: ClassName=Origin_pi Member=Component U? SY8088AAC
+Added Member To Class: ClassName=Origin_pi Member=Component U? XC6206P332MR-G
+Added Room: Name=Origin_pi

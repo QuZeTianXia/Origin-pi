@@ -1,0 +1,36 @@
+Added Component: Designator=X?(OSC-SMD_L3.2-W1.5)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "32.768KHz_C9900004736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "À©Õ¹¿â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "32.768KHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "32.768KHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "32.768KHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "OSC-SMD_L3.2-W1.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C9900004736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "32.768KHZ"; VariantName = "[No Variations]"
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Added Member To Class: ClassName=Origin_pi Member=Component C? 0603DS475K160NT
+Added Member To Class: ClassName=Origin_pi Member=Component C? 0603DS475K160NT
+Added Member To Class: ClassName=Origin_pi Member=Component C? 0603DS475K160NT
+Added Member To Class: ClassName=Origin_pi Member=Component C? 0603DS475K160NT
+Added Member To Class: ClassName=Origin_pi Member=Component C? 0603DS475K160NT
+Added Member To Class: ClassName=Origin_pi Member=Component C? 0603DS475K160NT
+Added Member To Class: ClassName=Origin_pi Member=Component C? 0603DS475K160NT
+Added Member To Class: ClassName=Origin_pi Member=Component R? ÌùÆ¬µç×è_0603_100K_¡À1%_1/10W
+Added Member To Class: ClassName=Origin_pi Member=Component R? ÌùÆ¬µç×è_0603_100K_¡À1%_1/10W
+Added Member To Class: ClassName=Origin_pi Member=Component U? TYPE-C16PINÄ¸×ù °åÉÏËÄ½ÅÈý´Îmolding
+Added Member To Class: ClassName=Origin_pi Member=Component U? ÖÐ¾°Ô°2.0´çTFT12PINº¸½Ó
+Added Member To Class: ClassName=Origin_pi Member=Component U? XC6206P332MR-G
+Added Member To Class: ClassName=Origin_pi Member=Component U? CH340E
+Added Member To Class: ClassName=Origin_pi Member=Component U? SY8088AAC
+Added Member To Class: ClassName=Origin_pi Member=Component X? 32.768KHz
+Added Room: Name=Origin_pi

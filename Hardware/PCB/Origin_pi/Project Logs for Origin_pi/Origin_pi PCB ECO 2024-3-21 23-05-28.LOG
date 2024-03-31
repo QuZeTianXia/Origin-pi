@@ -1,0 +1,22 @@
+Added Component: Designator=USB?(USB-A-TH_SIDE-SINK-USB-A)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "USB-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "USB-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "USB-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "USB-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "USB-A³Á°åÄ¸×ù"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C9900005029"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "USB-A"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Origin_pi Member=Component U? SY8088AAC
+Added Member To Class: ClassName=Origin_pi Member=Component U? XC6206P332MR-G
+Added Member To Class: ClassName=Origin_pi Member=Component U? V3s
+Added Member To Class: ClassName=Origin_pi Member=Component USB? USB-A
+Added Room: Name=Origin_pi

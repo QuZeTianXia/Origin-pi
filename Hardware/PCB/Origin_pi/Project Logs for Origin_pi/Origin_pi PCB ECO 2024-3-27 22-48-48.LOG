@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=K1-2
+Added Pin To Net: NetName=RESET Pin=C34-1
+Added Pin To Net: NetName=GND Pin=K1-1
+Added Pin To Net: NetName=RESET Pin=K1-2
+Added Pin To Net: NetName=RESET Pin=R5-1
+Added Member To Class: ClassName=Origin_pi Member=Component C24 0603DS475K160NT
+Added Member To Class: ClassName=Origin_pi Member=Component R16 ÌùÆ¬µç×è_0603_100K_¡À1%_1/10W
+Added Member To Class: ClassName=Origin_pi Member=Component U6 CH340E
+Added Room: Name=Origin_pi

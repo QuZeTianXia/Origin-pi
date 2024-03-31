@@ -1,0 +1,29 @@
+Added Component: Designator=U?(SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20130823/1457706639850.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "XC6206P332MR-G_C5446"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "680mV@(100mA)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "基础库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "输入6V 输出3.3V 200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TOREX(特瑞仕)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "XC6206P332MR-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MAX Output Current"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Input Voltage"; Value = "6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "XC6206P332MR-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Polarity"; Value = "正极"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "固定"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Supply Rejection Ratio (PSRR)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-23-3L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5446"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "XC6206P332MR"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Origin_pi Member=Component U? XC6206P332MR-G
+Added Member To Class: ClassName=Origin_pi Member=Component U? V3s
+Added Member To Class: ClassName=Origin_pi Member=Component U? SY8088AAC
+Added Room: Name=Origin_pi

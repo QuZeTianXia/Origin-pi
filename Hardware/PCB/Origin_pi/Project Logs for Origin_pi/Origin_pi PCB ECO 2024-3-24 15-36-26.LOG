@@ -1,0 +1,264 @@
+Change component parameters: Designator = "C?" ("C?"); Footprint = "PCBComponent_1"; UniqueID = "\KMXJSTYC" ("\KMXJSTYC")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220211/3FDF6092789FC56E23A16E03DC7301F9.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µçÈÝ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FH(·ç»ª)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "10uf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C18213190"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Added Component: Designator=C?(PCBComponent_1)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220211/3FDF6092789FC56E23A16E03DC7301F9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µçÈÝ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(·ç»ª)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "10uf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C18213190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Added Component: Designator=C?(PCBComponent_1)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220211/3FDF6092789FC56E23A16E03DC7301F9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µçÈÝ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(·ç»ª)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "10uf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C18213190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Added Component: Designator=C?(PCBComponent_1)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220211/3FDF6092789FC56E23A16E03DC7301F9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µçÈÝ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(·ç»ª)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "100nf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C18213190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Added Component: Designator=C?(PCBComponent_1)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220211/3FDF6092789FC56E23A16E03DC7301F9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µçÈÝ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(·ç»ª)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "1UF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C18213190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Added Component: Designator=C?(PCBComponent_1)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220211/3FDF6092789FC56E23A16E03DC7301F9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µçÈÝ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(·ç»ª)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "10uf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C18213190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Added Component: Designator=C?(PCBComponent_1)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220211/3FDF6092789FC56E23A16E03DC7301F9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µçÈÝ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(·ç»ª)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "100nf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C18213190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Added Component: Designator=C?(PCBComponent_1)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220211/3FDF6092789FC56E23A16E03DC7301F9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µçÈÝ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(·ç»ª)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "10uf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C18213190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603DS475K160NT"; VariantName = "[No Variations]"
+Added Component: Designator=R?(PCBComponent_1)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ÌùÆ¬µç×è_0603_100K_¡À1%_1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "À©Õ¹¿â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µç×è_0603_100K_¡À1%_1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ÌùÆ¬µç×è_0603_100K_¡À1%_1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C9900009623"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ÌùÆ¬µç×è_0603_100K_¡À1%_1/10W"; VariantName = "[No Variations]"
+Added Component: Designator=R?(PCBComponent_1)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ÌùÆ¬µç×è_0603_100K_¡À1%_1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "À©Õ¹¿â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ÌùÆ¬µç×è_0603_100K_¡À1%_1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ÌùÆ¬µç×è_0603_100K_¡À1%_1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "200K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C9900009623"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ÌùÆ¬µç×è_0603_100K_¡À1%_1/10W"; VariantName = "[No Variations]"
+Added Component: Designator=X?(CRYSTAL-SMD_4P-L3.2-W2.5-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Crystal Type"; Value = "ÌùÆ¬¾§Õñ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20210329/C112971_1F611BDC486E193C1706F6D8EB5AA189.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "X322524MSB4SI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "External load capacitor"; Value = "20pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Stability(Full temperature range)"; Value = "¡À30ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "À©Õ¹¿â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "24MHz ¡À10ppm 20pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YXC(ÑïÐË¾§Õñ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "X322524MSB4SI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "24MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Normal temperature Frequency Tolerance"; Value = "¡À10ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40¡æ~+85¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD3225-4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C15643"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "X322524MSB4SI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "24MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=3V3 Pin=U1-98
+Added Pin To Net: NetName=3V3 Pin=U1-104
+Added Pin To Net: NetName=1V2 Pin=U1-108
+Added Pin To Net: NetName=3V3 Pin=U1-109
+Added Pin To Net: NetName=3V3 Pin=U1-122
+Added Pin To Net: NetName=3V0 Pin=U1-115
+Added Net: Name=3V0
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U1-116
+Added Net: Name=GND
+Added Pin To Net: NetName=HP_L Pin=U1-121
+Added Net: Name=HP_L
+Added Pin To Net: NetName=HP_R Pin=U1-120
+Added Net: Name=HP_R
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U1-118
+Added Net: Name=NetC?_1
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U1-123
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U1-100
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=RESET Pin=U1-99
+Added Net: Name=RESET
+Added Pin To Net: NetName=SDC0_CLK Pin=U1-105
+Added Net: Name=SDC0_CLK
+Added Pin To Net: NetName=SDC0_CMD Pin=U1-103
+Added Net: Name=SDC0_CMD
+Added Pin To Net: NetName=SDC0_D0 Pin=U1-106
+Added Net: Name=SDC0_D0
+Added Pin To Net: NetName=SDC0_D1 Pin=U1-107
+Added Net: Name=SDC0_D1
+Added Pin To Net: NetName=SDC0_D2 Pin=U1-101
+Added Net: Name=SDC0_D2
+Added Pin To Net: NetName=SDC0_D3 Pin=U1-102
+Added Net: Name=SDC0_D3
+Added Pin To Net: NetName=USB_DN Pin=U1-110
+Added Net: Name=USB_DN
+Added Pin To Net: NetName=USB_DP Pin=U1-111
+Added Net: Name=USB_DP
+Added Member To Class: ClassName=Origin_pi Member=Component C? 0603DS475K160NT
+Added Member To Class: ClassName=Origin_pi Member=Component C? 0603DS475K160NT
+Added Member To Class: ClassName=Origin_pi Member=Component C? 0603DS475K160NT
+Added Member To Class: ClassName=Origin_pi Member=Component C? 0603DS475K160NT
+Added Member To Class: ClassName=Origin_pi Member=Component C? 0603DS475K160NT
+Added Member To Class: ClassName=Origin_pi Member=Component C? 0603DS475K160NT
+Added Member To Class: ClassName=Origin_pi Member=Component C? 0603DS475K160NT
+Added Member To Class: ClassName=Origin_pi Member=Component R? ÌùÆ¬µç×è_0603_100K_¡À1%_1/10W
+Added Member To Class: ClassName=Origin_pi Member=Component R? ÌùÆ¬µç×è_0603_100K_¡À1%_1/10W
+Added Member To Class: ClassName=Origin_pi Member=Component U? SY8088AAC
+Added Member To Class: ClassName=Origin_pi Member=Component U? ÖÐ¾°Ô°2.0´çTFT12PINº¸½Ó
+Added Member To Class: ClassName=Origin_pi Member=Component U? XC6206P332MR-G
+Added Member To Class: ClassName=Origin_pi Member=Component U? CH340E
+Added Member To Class: ClassName=Origin_pi Member=Component U? TYPE-C16PINÄ¸×ù °åÉÏËÄ½ÅÈý´Îmolding
+Added Member To Class: ClassName=Origin_pi Member=Component X? 24MHz
+Added Room: Name=Origin_pi

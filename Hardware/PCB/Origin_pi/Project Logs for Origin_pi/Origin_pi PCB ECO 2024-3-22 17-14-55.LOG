@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=U? Old Footprint=SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR New Footprint=R8723BS
+Change Footprint: Footprint Not Found LQFP-128_L14.0-W14.0-P0.40-LS16.0-BL-EP5.0
+Added Member To Class: ClassName=Origin_pi Member=Component U? V3s
+Added Member To Class: ClassName=Origin_pi Member=Component U? XC6206P332MR-G
+Added Member To Class: ClassName=Origin_pi Member=Component U? SY8088AAC
+Added Member To Class: ClassName=Origin_pi Member=Component U? RTL8723BS_Module
+Added Member To Class: ClassName=Origin_pi Member=Component U? 中景园2.0寸TFT12PIN焊接
+Added Member To Class: ClassName=Origin_pi Member=Component U? TYPE-C16PIN母座 板上四脚三次molding
+Added Room: Name=Origin_pi

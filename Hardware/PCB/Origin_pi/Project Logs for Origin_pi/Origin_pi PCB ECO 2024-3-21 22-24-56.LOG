@@ -1,0 +1,28 @@
+Added Component: Designator=U?(SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170329/1490752163260.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SY8088AAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "½µÑ¹ÐÍ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "À©Õ¹¿â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "SY8088AAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "silergy(ÎùÁ¦½Ü)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SY8088AAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "SY8088AAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C79313"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch tube (built-in/external)"; Value = "ÄÚÖÃ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switching Frequency"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SY8088AAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectification"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "-"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Origin_pi Member=Component U? SY8088AAC
+Added Member To Class: ClassName=Origin_pi Member=Component U? V3s
+Added Room: Name=Origin_pi

@@ -1,0 +1,23 @@
+Added Component: Designator=U9(PCBComponent_1 - duplicate)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "liam_sugar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "÷–æ∞‘∞2.0¥ÁTFT12PIN∫∏Ω”"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=3V3 Pin=U9-3
+Added Pin To Net: NetName=3V3 Pin=U9-4
+Added Pin To Net: NetName=GND Pin=U9-5
+Added Pin To Net: NetName=GND Pin=U9-6
+Added Pin To Net: NetName=LCD_DC Pin=U9-7
+Added Pin To Net: NetName=LCD_CS Pin=U9-8
+Added Pin To Net: NetName=LCD_SCL Pin=U9-9
+Added Pin To Net: NetName=LCD_SDA Pin=U9-10
+Added Pin To Net: NetName=LCD_RST Pin=U9-11
+Added Pin To Net: NetName=GND Pin=U9-12
+Added Member To Class: ClassName=Origin_pi Member=Component U9 ÷–æ∞‘∞2.0¥ÁTFT12PIN∫∏Ω”
+Added Room: Name=Origin_pi

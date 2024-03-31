@@ -1,0 +1,42 @@
+Added Component: Designator=D?(LED0603-RD)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "LTE-C9901-GD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "扩展库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "LTE-C9901-GD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "LTE-C9901-GD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "LTE-C9901-GD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "LED0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C9900001446"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LTE-C9901-GD"; VariantName = "[No Variations]"
+Added Component: Designator=L?(L0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "UPZ1608U601-1R3TFSMD0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "扩展库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "UPZ1608U601-1R3TFSMD0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "UPZ1608U601-1R3TFSMD0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "UPZ1608U601-1R3TFSMD0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "L0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C9900089406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "UPZ1608U601-1R3TFSMD0603"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Origin_pi Member=Component D? LTE-C9901-GD
+Added Member To Class: ClassName=Origin_pi Member=Component L? UPZ1608U601-1R3TFSMD0603
+Added Member To Class: ClassName=Origin_pi Member=Component U? CH340E
+Added Member To Class: ClassName=Origin_pi Member=Component U? SY8088AAC
+Added Member To Class: ClassName=Origin_pi Member=Component U? TYPE-C16PIN母座 板上四脚三次molding
+Added Member To Class: ClassName=Origin_pi Member=Component U? XC6206P332MR-G
+Added Member To Class: ClassName=Origin_pi Member=Component U? 中景园2.0寸TFT12PIN焊接
+Added Room: Name=Origin_pi

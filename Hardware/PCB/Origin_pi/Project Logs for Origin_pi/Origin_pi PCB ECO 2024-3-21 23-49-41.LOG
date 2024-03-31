@@ -1,0 +1,26 @@
+Added Component: Designator=CN?(AUDIO-SMD_CK3.5-20-1)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "3.5mm¶ú»ú×ù"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200805/C718046_04C469F891EDA4D53ADEB63B7833A696.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "CK3.5-20-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "À©Õ¹¿â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "3.5mm¶ú»ú×ù"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JINJIA(½ð¼Ñ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "CK3.5-20-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CK3.5-20-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-25¡æ~+70¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C718046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "CK3.5-20-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (Max)"; Value = "30V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Origin_pi Member=Component CN? CK3.5-20-1
+Added Member To Class: ClassName=Origin_pi Member=Component U? V3s
+Added Member To Class: ClassName=Origin_pi Member=Component U? SY8088AAC
+Added Member To Class: ClassName=Origin_pi Member=Component U? XC6206P332MR-G
+Added Room: Name=Origin_pi
